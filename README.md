@@ -91,4 +91,4 @@ The main goal of this project is to practice:
 ## 🧑‍💻 Author
 
 Pavan Sai Kasala  
-Beginner Python Developer | Learning OOP & Problem Solving
+Learning OOP & Problem Solving
